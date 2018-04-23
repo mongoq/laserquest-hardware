@@ -1,5 +1,5 @@
 # Laserquest Hardware
-Arduino Nano / 2x Servo / Laser Hardware Doku
+Arduino Nano / 2x Servo / Laser - Hardware Doku
 
 Video: https://www.youtube.com/watch?v=Tla-39hAEi0
 
